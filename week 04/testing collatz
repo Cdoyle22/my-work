@@ -1,0 +1,7 @@
+# Program
+
+
+number = int(input("Enter a number:"))
+evenNumber = number / 2
+oddNumber = ((number * 3) + 1)  
+
